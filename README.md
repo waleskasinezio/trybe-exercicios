@@ -1,1 +1,1 @@
-Espaço dedicado a resolução de exercicios e projetos da Trybe
+Esse repositório contém códigos de exercicios e projetos da Trybe
