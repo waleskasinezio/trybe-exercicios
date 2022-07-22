@@ -79,3 +79,10 @@ for (let i = 0; i < numbers8.length; i +=1) {
   console.log(numbers8[i] / 2);
 }
 
+const n = 9 ;
+
+let resultado = 100;
+for (let index = 0; index <= n; index += 1) {
+  resultado -= index;
+};
+console.log(resultado);
